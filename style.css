@@ -1,0 +1,22 @@
+/* Line-Height */
+  p {
+    line-height: 1.5;
+  }
+/* Spacing Letters */
+  h1 {
+    letter-spacing: 3px;
+  }
+/* Text Transform */
+  h3 {
+    text-transform: uppercase;
+  }
+   
+/* Text Decoration */
+  h3 {
+    text-decoration:  underline;
+    color: rgb(245, 9, 56);
+  }
+/* Text Alignment */
+h1, h2, h3 {
+    text-align: center;
+}
